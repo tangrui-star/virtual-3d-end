@@ -1,0 +1,15 @@
+{
+  "name": "virtual-3d-end",
+  "version": "1.0.0",
+  "description": "a virtual-3d-world project,my graduation project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "redGrape",
+  "license": "ISC"
+}
